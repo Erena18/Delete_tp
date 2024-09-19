@@ -1,5 +1,0 @@
-file.txt
-*.class
-target/
-*.iml
-.idea/
